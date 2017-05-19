@@ -12,7 +12,7 @@ I have always had a deep fascination with the Universe and it has grown into a s
 
 <!--more-->
 ## ABOUT THE PROGRAMME
-![IUCAA_1]({{https://akhilpunia.github.io}}/assets/images/iucaa_1.jpg)
+![IUCAA_1]({{https://akhilpunia.github.io}}/assets/images/iucaa_1.jpeg)
 
 I was selected for the Introductory Summer School Program on Astronomy and Astrophysics (ISSAA 2016) which was held from 15th May to 17th June, 2016 and was organized by the Inter University Centre for Astronomy & Astrophysics (IUCAA), Pune.
 
@@ -21,7 +21,7 @@ The programme spanned over a period of five weeks and consisted of a core set of
 <!--more-->
 ## Reaching IUCAA?
 
-![IUCAA_2]({{https://akhilpunia.github.io}}/assets/images/iucaa_2.jpg)
+![IUCAA_2]({{site.url}}/assets/images/iucaa_2.jpg)
 
 I reached IUCAA five days late, since our Term End Exams clashed with the programme dates.
 
@@ -32,7 +32,7 @@ This gave us the great opportunity of being able to interact freely with them an
 <!--more-->
 ## Lectures and Experimental Sessions
 
-![IUAA_3]({https://akhilpunia.github.io}/assets/images/iucaa_3.jpg)
+![IUAA_3]({{site.url}}/assets/images/iucaa_3.jpeg)
 
 This indeed was the best and the most exciting part. The lectures covered topics from the very basics, like Optical Astronomy, Fluids, Plasma and General Relativity offered by the globally renowned theoretical physicist and cosmologist, Padma Shri Prof. Thanu Padmanabhan. His lectures were engaging and rejuvenated our curious minds. Galaxies, Cosmology at a Large Scale and Galactic Dynamics-based lectures were pretty challenging and left us more confused than ever about the mysterious nature of the universe. The part that really interested me was the one that involved studying the Cosmos in the Electromagnetic Spectrum. The lectures of Caltech Postgraduate Prof. Varun Bhalerao were really powerful. He covered X Ray Astronomy using space-based observatories like NASA’s Chandra and recently launched multi wavelength satellite ASTROSAT. He talked in depth about how engineers at IUCAA worked to build the SXT (Soft X-Ray Imaging Telescope).
 
