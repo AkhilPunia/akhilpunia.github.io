@@ -32,23 +32,28 @@ This gave us the great opportunity of being able to interact freely with them an
 <!--more-->
 ## Lectures and Experimental Sessions
 
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_3.jpg)
+
 This indeed was the best and the most exciting part. The lectures covered topics from the very basics, like Optical Astronomy, Fluids, Plasma and General Relativity offered by the globally renowned theoretical physicist and cosmologist, Padma Shri Prof. Thanu Padmanabhan. His lectures were engaging and rejuvenated our curious minds. Galaxies, Cosmology at a Large Scale and Galactic Dynamics-based lectures were pretty challenging and left us more confused than ever about the mysterious nature of the universe. The part that really interested me was the one that involved studying the Cosmos in the Electromagnetic Spectrum. The lectures of Caltech Postgraduate Prof. Varun Bhalerao were really powerful. He covered X Ray Astronomy using space-based observatories like NASA’s Chandra and recently launched multi wavelength satellite ASTROSAT. He talked in depth about how engineers at IUCAA worked to build the SXT (Soft X-Ray Imaging Telescope).
 
 The most coveted topic during my stay at IUCAA was the study of Gravitational Waves. A team of scientists and PhD students at IUCAA is working in tandem with Caltech & MIT’s LIGO Hanford Observatory. They shared their experiences with us and what work they were contributing to in this cutting edge field, which is being touted by many as the biggest discovery in 21st Century.
 
 Experimental Sessions dealt with playing around with Radio Telescopes and programming in Python. We were taught how numerical methods and python are employed to carry out interesting simulations of the universe. We did mini projects that involved handling data from the Cosmic Microwave Background and Sloan Digital Sky Survey(SDSS). Also, not to forget we had regular night sky watching / star gazing sessions too!
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_3.jpg)
 <!--more-->
 ## Field Trip to GMRT and IGO
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_4.jpg)
 
 We also got the opportunity to visit the Giant Metrewave Radio Telescope at Khodad which is operated by National Centre for Radio Astrophysics (NCRA).
 
 It is amongst the largest interferometric arrays in the world and is used to study the Galaxy, Supernovae, the Sun and their various phenomenon like solar winds. We also visited IUCAA’s Girawali Observatory which houses a two Meter Optical telescope. We studied about the engineering feats achieved in building such a sensitive and precise instrument at the top of a mountain.
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_4.jpg)
+
 <!--more-->
 ## FUN and Night Trek to Visapur Fort
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_5.jpg)
 
 The environment at IUCAA was really cheerful and fun-filled. We could wear shorts to lecture halls and the library was open all night.
 
