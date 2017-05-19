@@ -12,7 +12,7 @@ I have always had a deep fascination with the Universe and it has grown into a s
 
 <!--more-->
 ## ABOUT THE PROGRAMME
-![IUCAA_1]({akhilpunia.github.io}/assets/images/iucaa_1.jpg)
+![IUCAA_1]({{akhilpunia.github.io}}/assets/images/iucaa_1.jpg)
 
 I was selected for the Introductory Summer School Program on Astronomy and Astrophysics (ISSAA 2016) which was held from 15th May to 17th June, 2016 and was organized by the Inter University Centre for Astronomy & Astrophysics (IUCAA), Pune.
 
@@ -21,7 +21,7 @@ The programme spanned over a period of five weeks and consisted of a core set of
 <!--more-->
 ## Reaching IUCAA?
 
-![IUCAA_2]({akhilpunia.github.io}/assets/images/iucaa_2.jpg)
+![IUCAA_2]({{https://akhilpunia.github.io}}/assets/images/iucaa_2.jpg)
 
 I reached IUCAA five days late, since our Term End Exams clashed with the programme dates.
 
