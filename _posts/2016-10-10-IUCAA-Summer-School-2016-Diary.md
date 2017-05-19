@@ -14,6 +14,7 @@ I have always had a deep fascination with the Universe and it has grown into a s
 ## ABOUT THE PROGRAMME
 ![Unsplash image 9]({/assets/images/iucaa_1.jpg)
 {: .full}
+
 I was selected for the Introductory Summer School Program on Astronomy and Astrophysics (ISSAA 2016) which was held from 15th May to 17th June, 2016 and was organized by the Inter University Centre for Astronomy & Astrophysics (IUCAA), Pune.
 
 The programme spanned over a period of five weeks and consisted of a core set of theory lectures followed by experimental sessions that focused on various techniques of studying the universe. I was among 35 students selected from various colleges across India, from a pool of around 700+ applicants. The whole program was funded by IUCAA, which meant free hospitality (including stay, food and field visits) and that Travel Allowances (TA) was provided. So, now that the premise set, we can now dig a little deeper!
@@ -23,6 +24,7 @@ The programme spanned over a period of five weeks and consisted of a core set of
 
 ![Unsplash image 9]({/assets/images/iucaa_2.jpg)
 {: .full}
+
 I reached IUCAA five days late, since our Term End Exams clashed with the programme dates.
 
 The experience enthralled me from the very first day. I was provided accommodation in the IUCAA Guest House along with the other participants. The food was provided by the IUCAA Canteen, ‘Ballava’. The best part about it was that all the PhD scholars and faculty members - including hardcore Astrophysicists - came for their meals to the same place.
