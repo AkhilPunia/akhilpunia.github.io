@@ -12,6 +12,7 @@ I have always had a deep fascination with the Universe and it has grown into a s
 
 <!--more-->
 ## ABOUT THE PROGRAMME
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_1.jpg)
 
 I was selected for the Introductory Summer School Program on Astronomy and Astrophysics (ISSAA 2016) which was held from 15th May to 17th June, 2016 and was organized by the Inter University Centre for Astronomy & Astrophysics (IUCAA), Pune.
 
@@ -19,6 +20,8 @@ The programme spanned over a period of five weeks and consisted of a core set of
 
 <!--more-->
 ## Reaching IUCAA?
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_2.jpg)
 
 I reached IUCAA five days late, since our Term End Exams clashed with the programme dates.
 
@@ -35,6 +38,7 @@ The most coveted topic during my stay at IUCAA was the study of Gravitational Wa
 
 Experimental Sessions dealt with playing around with Radio Telescopes and programming in Python. We were taught how numerical methods and python are employed to carry out interesting simulations of the universe. We did mini projects that involved handling data from the Cosmic Microwave Background and Sloan Digital Sky Survey(SDSS). Also, not to forget we had regular night sky watching / star gazing sessions too!
 
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_3.jpg)
 <!--more-->
 ## Field Trip to GMRT and IGO
 
@@ -42,6 +46,7 @@ We also got the opportunity to visit the Giant Metrewave Radio Telescope at Khod
 
 It is amongst the largest interferometric arrays in the world and is used to study the Galaxy, Supernovae, the Sun and their various phenomenon like solar winds. We also visited IUCAA’s Girawali Observatory which houses a two Meter Optical telescope. We studied about the engineering feats achieved in building such a sensitive and precise instrument at the top of a mountain.
 
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/iucaa_4.jpg)
 <!--more-->
 ## FUN and Night Trek to Visapur Fort
 
