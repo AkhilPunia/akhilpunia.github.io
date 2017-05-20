@@ -21,7 +21,7 @@ The programme spanned over a period of five weeks and consisted of a core set of
 <!--more-->
 ## Reaching IUCAA?
 
-![IUCAA_2]({{site.url}}/assets/images/iucaa_2.jpg)
+![IUCAA_2](https://c1.staticflickr.com/5/4251/34639049961_43a85267bf_b.jpg)
 
 I reached IUCAA five days late, since our Term End Exams clashed with the programme dates.
 
@@ -32,7 +32,7 @@ This gave us the great opportunity of being able to interact freely with them an
 <!--more-->
 ## Lectures and Experimental Sessions
 
-![IUAA_3]({{site.url}}/assets/images/iucaa_3.jpeg)
+![IUAA_3](https://c1.staticflickr.com/5/4161/34639045611_5732523803_b.jpg)
 
 This indeed was the best and the most exciting part. The lectures covered topics from the very basics, like Optical Astronomy, Fluids, Plasma and General Relativity offered by the globally renowned theoretical physicist and cosmologist, Padma Shri Prof. Thanu Padmanabhan. His lectures were engaging and rejuvenated our curious minds. Galaxies, Cosmology at a Large Scale and Galactic Dynamics-based lectures were pretty challenging and left us more confused than ever about the mysterious nature of the universe. The part that really interested me was the one that involved studying the Cosmos in the Electromagnetic Spectrum. The lectures of Caltech Postgraduate Prof. Varun Bhalerao were really powerful. He covered X Ray Astronomy using space-based observatories like NASA’s Chandra and recently launched multi wavelength satellite ASTROSAT. He talked in depth about how engineers at IUCAA worked to build the SXT (Soft X-Ray Imaging Telescope).
 
@@ -43,7 +43,7 @@ Experimental Sessions dealt with playing around with Radio Telescopes and progra
 <!--more-->
 ## Field Trip to GMRT and IGO
 
-![IUCAA_4]({https://akhilpunia.github.io}/assets/images/iucaa_4.jpg)
+![IUCAA_4](https://c1.staticflickr.com/5/4227/34639047531_9101d72197_b.jpg)
 
 We also got the opportunity to visit the Giant Metrewave Radio Telescope at Khodad which is operated by National Centre for Radio Astrophysics (NCRA).
 
@@ -53,8 +53,7 @@ It is amongst the largest interferometric arrays in the world and is used to stu
 <!--more-->
 ## FUN and Night Trek to Visapur Fort
 
-![IUCAA_5]({https://akhilpunia.github.io}/assets/images/iucaa_5.jpg)
-{: .full}
+![IUCAA_5](https://c1.staticflickr.com/5/4178/34639045151_7b85d0f6fe_b.jpg)
 
 The environment at IUCAA was really cheerful and fun-filled. We could wear shorts to lecture halls and the library was open all night.
 
