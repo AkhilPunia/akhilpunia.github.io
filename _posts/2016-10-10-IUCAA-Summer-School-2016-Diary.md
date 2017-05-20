@@ -65,4 +65,4 @@ Overall, the Summer School was a life-altering experience for me. It provided me
 
 
 The above post was also published on VIT Yearbook Magazine. The link for that post is below:
-(https://www.facebook.com/RewindVIT/posts/1068471596569556)
+[Click here to see the article.](https://www.facebook.com/RewindVIT/posts/1068471596569556)
